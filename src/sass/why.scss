@@ -1,16 +1,16 @@
 .why {
   text-align: center;
   background-color: var(--gray);
-  padding-top: 4.5em;
+  padding: 5em 0;
 
   .description {
     margin-bottom: 4em;
+    font-size: 1em;
   }
 
   &__item {
     .description {
       margin-bottom: 2em;
-      font-size: 1em;
     }
 
     img {

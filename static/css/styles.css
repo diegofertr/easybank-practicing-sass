@@ -27,14 +27,14 @@
 .why {
   text-align: center;
   background-color: var(--gray);
-  padding-top: 4.5em;
+  padding: 5em 0;
 }
 .why .description {
   margin-bottom: 4em;
+  font-size: 1em;
 }
 .why__item .description {
   margin-bottom: 2em;
-  font-size: 1em;
 }
 .why__item img {
   margin-bottom: 1.2em;
